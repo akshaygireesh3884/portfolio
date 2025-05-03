@@ -36,7 +36,7 @@ export default function Navbar() {
     >
       <div className="container mx-auto flex h-16 items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link href="#home" className="text-xl font-bold transition-colors hover:text-primary">
-          John<span className="text-primary">Doe</span>
+          Akshay<span className="text-primary">T G</span>
         </Link>
 
         {/* Desktop Navigation */}

@@ -26,7 +26,7 @@ export default function ResumeSection() {
               <div className="flex items-center justify-center mb-6">
                 <FileText className="h-16 w-16 text-primary" />
               </div>
-              <h3 className="text-xl font-semibold text-center mb-4">John Doe - Frontend Developer</h3>
+              <h3 className="text-xl font-semibold text-center mb-4">Akshay T G - Frontend Developer</h3>
               <p className="text-center text-muted-foreground mb-6">
                 ATS-friendly resume highlighting my skills, experience, and projects
               </p>

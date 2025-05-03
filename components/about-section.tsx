@@ -23,7 +23,7 @@ export default function AboutSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mt-12">
           <div className="animate-fade-in">
             <div className="relative h-[400px] w-full rounded-lg overflow-hidden shadow-xl">
-              <Image src="/placeholder.svg?height=800&width=600" alt="John Doe" fill className="object-cover" />
+              <Image src="/placeholder.svg?height=800&width=600" alt="Akshay T G" fill className="object-cover" />
             </div>
           </div>
 
@@ -75,15 +75,15 @@ export default function AboutSection() {
                 <div className="flex gap-3">
                   <Briefcase className="h-5 w-5 text-primary mt-1" />
                   <div>
-                    <h4 className="font-medium">Senior Frontend Developer</h4>
-                    <p className="text-sm text-muted-foreground">TechCorp Inc. • 2020 - Present</p>
+                    <h4 className="font-medium">React Developer</h4>
+                    <p className="text-sm text-muted-foreground">Tata consultancy services . • 2021 - Present</p>
                   </div>
                 </div>
                 <div className="flex gap-3">
                   <GraduationCap className="h-5 w-5 text-primary mt-1" />
                   <div>
-                    <h4 className="font-medium">BSc in Computer Science</h4>
-                    <p className="text-sm text-muted-foreground">University of Technology • 2015 - 2019</p>
+                    <h4 className="font-medium">B-tech in Electronics and communication engineering</h4>
+                    <p className="text-sm text-muted-foreground">Kerala technological university • 2015 - 2019</p>
                   </div>
                 </div>
               </div>

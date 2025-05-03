@@ -9,8 +9,8 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "John Doe | React & Next.js Developer",
-  description: "Portfolio website of John Doe, a React and Next.js developer specializing in modern web applications.",
+  title: "Akshay t G | React & Next.js Developer",
+  description: "Portfolio website of Akshay T G, a React and Next.js developer specializing in modern web applications.",
     generator: 'v0.dev'
 }
 
@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           <div className="flex min-h-screen flex-col">
             <Navbar />
             <main className="flex-1">{children}</main>

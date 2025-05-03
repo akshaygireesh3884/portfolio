@@ -63,7 +63,7 @@ export default function ContactSection() {
                 <Mail className="h-6 w-6 text-primary mt-1" />
                 <div>
                   <h3 className="font-medium">Email</h3>
-                  <p className="text-muted-foreground">hello@johndoe.dev</p>
+                  <p className="text-muted-foreground">akshaygireesh3884@gmail.com</p>
                 </div>
               </CardContent>
             </Card>
@@ -73,7 +73,7 @@ export default function ContactSection() {
                 <Phone className="h-6 w-6 text-primary mt-1" />
                 <div>
                   <h3 className="font-medium">Phone</h3>
-                  <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                  <p className="text-muted-foreground">+91 9847648039</p>
                 </div>
               </CardContent>
             </Card>
@@ -83,7 +83,7 @@ export default function ContactSection() {
                 <MapPin className="h-6 w-6 text-primary mt-1" />
                 <div>
                   <h3 className="font-medium">Location</h3>
-                  <p className="text-muted-foreground">San Francisco, CA</p>
+                  <p className="text-muted-foreground">Kochi,Kerala</p>
                 </div>
               </CardContent>
             </Card>

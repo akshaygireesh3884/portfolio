@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <Link href="#home" className="text-xl font-bold">
-              John<span className="text-primary">Doe</span>
+              Akshay<span className="text-primary">T G</span>
             </Link>
             <p className="mt-2 text-sm text-muted-foreground max-w-md">
               Building modern web experiences with React and Next.js. Let's create something amazing together.
@@ -45,14 +45,14 @@ export default function Footer() {
                 <span className="sr-only">Twitter</span>
               </Link>
               <Link
-                href="mailto:hello@johndoe.dev"
+                href="mailto:akshaygireesh3884@gmail.com"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
                 <Mail className="h-5 w-5" />
                 <span className="sr-only">Email</span>
               </Link>
             </div>
-            <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} John Doe. All rights reserved.</p>
+            <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} Akshay T G. All rights reserved.</p>
           </div>
         </div>
       </div>

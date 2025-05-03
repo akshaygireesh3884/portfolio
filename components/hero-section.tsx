@@ -19,7 +19,7 @@ export default function HeroSection() {
       <div className="container max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="animate-fade-in">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6">
-            Hi, I'm <span className="text-primary">John Doe</span>
+            Hi, I'm <span className="text-primary">Akshay T G</span>
           </h1>
           <h2 className="text-2xl md:text-3xl font-medium text-muted-foreground mb-8">
             Building modern web experiences with <span className="text-primary">React</span> &{" "}
