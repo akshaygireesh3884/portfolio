@@ -11,7 +11,12 @@ export default function ResumeSection() {
   useEffect(() => {
     setMounted(true)
   }, [])
-
+  const handleDownload = () => {
+    const link = document.createElement('a');
+    link.href = '/resume.pdf';
+    link.download = 'downloaded-resume.pdf';
+    link.click();
+  };
   if (!mounted) return null
 
   return (
@@ -30,7 +35,7 @@ export default function ResumeSection() {
               <p className="text-center text-muted-foreground mb-6">
                 ATS-friendly resume highlighting my skills, experience, and projects
               </p>
-              <Button className="w-full" size="lg">
+              <Button className="w-full" size="lg" onClick={handleDownload}>
                 <Download className="mr-2 h-4 w-4" /> Download Resume (PDF)
               </Button>
             </CardContent>
