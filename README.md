@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/akshaygireesh3884-gmailcoms-projects/v0-modern-portfolio-website](https://vercel.com/akshaygireesh3884-gmailcoms-projects/v0-modern-portfolio-website)**
+**[https://v0-modern-portfolio-website-tau-brown.vercel.app/](https://v0-modern-portfolio-website-tau-brown.vercel.app/)**
 
 ## Build your app
 

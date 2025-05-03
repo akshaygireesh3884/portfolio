@@ -9,7 +9,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Akshay t G | React & Next.js Developer",
+  title: "Akshay T G | React & Next.js Developer",
   description: "Portfolio website of Akshay T G, a React and Next.js developer specializing in modern web applications.",
     generator: 'v0.dev'
 }
