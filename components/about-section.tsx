@@ -23,7 +23,7 @@ export default function AboutSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mt-12">
           <div className="animate-fade-in">
             <div className="relative h-[400px] w-full rounded-lg overflow-hidden shadow-xl">
-              <Image src="/placeholder.svg?height=800&width=600" alt="Akshay T G" fill className="object-cover" />
+              <Image src="/file_00000000e5b061f792944e488c992abb.png?height=800&width=600" alt="Akshay T G" fill className="object-cover" />
             </div>
           </div>
 
